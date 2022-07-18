@@ -1,5 +1,5 @@
 # Login do Facebook 💻
-<h3> 📄📎 Este arquivo possui páginas login do Facebook, estilizadas com CSS3.</h3>
+<h3> 📄📎 Este arquivo possui página de login do Facebook, estilizada com CSS3.</h3>
                           
 ## Documentos: 
 - [Login](./html/login.html) 
